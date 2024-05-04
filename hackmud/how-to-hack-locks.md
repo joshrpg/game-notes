@@ -74,7 +74,7 @@
 
 `key2` will be the opposite color based on:
 
-![color wheel](how-to-hack-locks-imgs\image.png)
+![color wheel](how-to-hack-locks-images/image.png)
 
 ## c003
 
@@ -96,6 +96,6 @@
 - So if coo3:"red" c003_triad_1 is either "cyan" or "lime" and c003_triad_2 is the other one.
 - So if c003:"purple" c003_triad_1 is either "yellow" or "green" and c003_triad_3 is the other one.
 
-![color wheel](how-to-hack-locks-imgs\image.png)
+![color wheel](how-to-hack-locks-images/image.png)
 
 More here: [how to hack locks in hackmud](https://steamcommunity.com/sharedfiles/filedetails/?id=779579222)
