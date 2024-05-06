@@ -3,6 +3,7 @@
 ## Helpful Links
 
 [Colors](https://hackmud.fandom.com/wiki/Colors)
+
 [Scripting Basics](https://steamcommunity.com/sharedfiles/filedetails/?id=1113735555)
 
 ## Basics to finding npc scripts
