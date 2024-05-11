@@ -44,7 +44,7 @@
 
 ## c001
 
-`example.pub { c001:"key" }`
+`example.pub { c001:"key", color_digit: key2 }`
 
 `key1` will be one of the following:
 
@@ -56,6 +56,8 @@
 - blue
 - cyan
 - purple
+
+`key2` will be number between 0-9 as far as i have encountered.
 
 ## c002
 
